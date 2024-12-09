@@ -107,7 +107,7 @@ import java.util.*;
 //-> 2).BellmanFord Algorithm -> Shortest distance from the source to all vertices(shortest path algorithm)
 //.-> Perform this operation V-1 times (v = vertices)
 //.-> BellmanFord Algorithm work for positive weights as well as for negative weight in graph
-//.-> BellmanFord Algorithm doesn't work Negative Weight Cycles
+//.-> BellmanFord Algorithm doesn't work for Negative Weight Cycles
 
 // Time Complexity -> O(V+E)
 public class shortestPath{
